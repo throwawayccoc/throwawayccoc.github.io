@@ -1,6 +1,7 @@
 ---
-title: "Heather's Resume"
-layout: resume
+title: Resume
+icon: fa-check
+order: 5
 ---
 
 # Heather Switzer
