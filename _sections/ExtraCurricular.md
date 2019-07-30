@@ -1,6 +1,6 @@
 ---
 title: Extra-Curriculars
-icon: fa-th
+icon: fa-graduation-cap 
 order: 8
 ---
 
