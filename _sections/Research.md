@@ -1,6 +1,6 @@
 ---
 title: Research
-icon: fa-book-reader 
+icon: fa-book 
 order: 5
 ---
 
