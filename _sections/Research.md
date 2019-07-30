@@ -1,6 +1,6 @@
 ---
 title: Research
-icon: fa-graduation-cap 
+icon: fa-book-reader 
 order: 5
 ---
 
