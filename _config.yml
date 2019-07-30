@@ -42,7 +42,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   HTML5 UP's sleek, responsive site template Prologue.
 author: Heather Switzer
 email: hmswitzer@email.wm.edu
-avatar: 
+avatar: assets/images/avatar.jpeg
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -50,18 +50,10 @@ url: "" # the base hostname & protocol for your site
 
 # Social settings
 # Make sure to include the full url including protocol, e.g. https://github.com/chrisbobbe
-twitter_url:
-facebook_url:
-googleplus_url:
-instagram_url:
-linkedin_url:
-github_url:
-pinterest_url:
-slack_url:
-dribbble_url:
-
-# Google Analytics Tracking ID goes here:
-google_analytics:
+facebook_url: https://www.facebook.com/heatherms27
+instagram_url: https://www.instagram.com/switzerhm/
+linkedin_url: https://www.linkedin.com/in/heather-switzer/
+github_url: https://github.com/Heatherms27
 
 # The following settings are NECESSARY for the Prologue theme to run:
 theme: jekyll-theme-prologue
