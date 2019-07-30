@@ -1,6 +1,6 @@
 ---
 title: Experience
-icon: fa-code
+icon: fa-user
 order: 4
 ---
 <img src="{{ 'assets/images/WM.png' | relative_url }}" height="100" alt="WM Cypher" />
