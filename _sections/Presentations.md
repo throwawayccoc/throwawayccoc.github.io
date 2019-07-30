@@ -1,6 +1,6 @@
 ---
 title: Posters & Presentations
-icon: fa-th
+icon: fa-graduation-cap 
 order: 7
 ---
 
