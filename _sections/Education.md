@@ -22,7 +22,7 @@ Expected 2024
 B.S. in Computer Science and Mathematics
 Graduated May 2018
 
-<img src="{{ 'assets/images/RU.png' | relative_url }}" width="200" alt="RB Logo" />
+<img src="{{ 'assets/images/RB.png' | relative_url }}" width="200" alt="RB Logo" />
 
 ## Richard Bland College
 
