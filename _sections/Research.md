@@ -1,6 +1,6 @@
 ---
 title: Research
-icon: fa-trophy
+icon: fa-graduation-cap 
 order: 5
 ---
 
