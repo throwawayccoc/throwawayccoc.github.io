@@ -13,7 +13,7 @@ M.S./Ph.D in Computer Science with Computational Science Specialization
 Expected 2024
 
 
-<img src="{{ 'assets/images/LU.jpg' | relative_url }}" width="200" alt="LU Logo" />
+<img src="{{ 'assets/images/LU.png' | relative_url }}" width="200" alt="LU Logo" />
 
 ## Longwood University
 
