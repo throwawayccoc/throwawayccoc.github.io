@@ -10,7 +10,7 @@ order: 8
 #### The Colege of William & Mary
 ##### Mar 2019 - Present
 <br/><br/>
-<img src="{{ 'assets/images/LU.jpg' | relative_url }}" width="100" alt="LU Logo" />
+<img src="{{ 'assets/images/LU.png' | relative_url }}" width="100" alt="LU Logo" />
 
 ### Math Club President
 #### Longwood University
