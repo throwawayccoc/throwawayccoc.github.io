@@ -26,7 +26,7 @@ order: 2
 
 **If you have questions concerning your part of this great plan, continue reading.**  
 
-<p style="text-align: center; color:red"><b>"What must I do to be saved?"</b></p>
+<p style="text-align: center; color: red"><b>"What must I do to be saved?"</b></p>
 
 This is the question that every man and woman must answer in their lives if they hope to spend eternity with God in Heaven. The apostle Paul says, in Phil 2:12, to those of the church in Philippi,  
 
@@ -34,7 +34,7 @@ This is the question that every man and woman must answer in their lives if they
 
 Thus, we understand that it is our own responsibility to answer the question, "What we must do to be saved?" No one else can answer that question for us, nor can we trust others with this, most important, decision. We must seek our answer from God and His Word.  
 
-<p style="text-align: center; color:red"><b>So, what does the Bible say about salvation?</b></p>
+<p style="text-align: center; color: red"><b>So, what does the Bible say about salvation?</b></p>
 
 <p style="text-align: center; color: blue;"><b>We cannot be saved by the creeds or manuals of men.</b></p>
 
