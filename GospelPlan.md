@@ -22,11 +22,11 @@ order: 2
 5.	Be Baptized (Galatians 3:27, Mark 16:16, Acts 2:38)  
 6. Be faithful unto death (Revelations 2:10)  
 
-<p style="text-align: center; color: red;"><strong>God has done His part;<br/>Will you do yours?</strong></p>
+<p style="text-align: center; color: red;">God has done His part;<br/>Will you do yours?</p>
 
 **If you have questions concerning your part of this great plan, continue reading.**  
 
-<p style="text-align: center; color: red;"><strong>"What must I do to be saved?"</strong></p>
+<p style="text-align: center; color: red;">"What must I do to be saved?"</p>
 
 This is the question that every man and woman must answer in their lives if they hope to spend eternity with God in Heaven. The apostle Paul says, in Phil 2:12, to those of the church in Philippi,  
 
@@ -34,9 +34,9 @@ This is the question that every man and woman must answer in their lives if they
 
 Thus, we understand that it is our own responsibility to answer the question, "What we must do to be saved?" No one else can answer that question for us, nor can we trust others with this, most important, decision. We must seek our answer from God and His Word.  
 
-<p style="text-align: center; color: red;"><strong>So, what does the Bible say about salvation?</strong></p>
+<p style="text-align: center; color: red;">So, what does the Bible say about salvation?</p>
 
-<p style="text-align: center; color: blue;"><strong>We cannot be saved by the creeds or manuals of men.</strong></p>
+<p style="text-align: center; color: blue;">We cannot be saved by the creeds or manuals of men.</p>
 
 In Matthew 15:9, Jesus says,  
 
