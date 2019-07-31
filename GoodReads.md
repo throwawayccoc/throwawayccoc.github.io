@@ -22,7 +22,7 @@ order: 2
 5.	Be Baptized (Galatians 3:27, Mark 16:16, Acts 2:38)  
 6. Be faithful unto death (Revelations 2:10)  
 
-<p style="text-align: center;" color="Red"><i>God has done his part;<br/>Will you do yours?</i></p>
+<p style="text-align: center;" color="red"><i>God has done his part;<br/>Will you do yours?</i></p>
 
 **If you have questions concerning your part of this great plan, continue reading.**  
 
