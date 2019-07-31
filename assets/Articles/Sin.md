@@ -1,9 +1,9 @@
 <h3 style="text-align: center;">What does the Bible say about SIN?</h3>
 <br/>
 <h4 style="text-align: center;">Rom 3:23 </h4>
-23.  For all have sinned, and come short of the glory of God; 
+23.  For all have sinned, and come short of the glory of God;  
 <br/>
-Isaiah 59: 1-2  
+<h4 style="text-align: center;">Isaiah 59: 1-2</h4>
  1) Behold, the Lord's hand is not shortened, that it cannot 
      save; neither his ear heavy, that it cannot hear:  
  2) But your iniquities have separated between you and your 
