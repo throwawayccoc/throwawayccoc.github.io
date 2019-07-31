@@ -1,6 +1,5 @@
-  
 ---
-title: Worship Times
+title: Times
 icon: fa-user
 order: 3
 ---
