@@ -1,6 +1,6 @@
-What does the Bible say about SIN?  
-<br/>
-Rom 3:23   
+<h3 style="text-align: center;">What does the Bible say about SIN?</h3>
+
+<h4 style="text-align: center;">Rom 3:23 </h4>
 23.  For all have sinned, and come short of the glory of God; 
 <br/>
 Isaiah 59: 1-2  
@@ -10,14 +10,14 @@ Isaiah 59: 1-2
      God, and your sins have hid his face from you, that he 
      will not hear.  
 <br/>
-Ezekial 18:20  
+<h4 style="text-align: center;">Ezekial 18:20</h4>
  20. The soul that sinneth, it shall die. The son shall not 
      bear the iniquity of the father, neither shall the 
      father bear the iniquity of the son: the righteousness 
      of the righteous shall be upon him, and the wickedness 
      of the wicked shall be upon him.  
 <br/>
-Acts 2:36-39  
+<h4 style="text-align: center;">Acts 2:36-39</h4>
 36.  Therefore let all the house of Israel know assuredly, 
      that God hath made that same Jesus, whom ye have crucified, 
      both Lord and Christ.  
@@ -31,6 +31,6 @@ Acts 2:36-39
      to all that are afar off, even as many as the Lord our God 
      shall call.  
 <br/>
-Acts 22:16  
+<h4 style="text-align: center;">Acts 22:16</h4>
 16.  And now why tarriest thou? arise, and be baptized, and 
      wash away thy sins, calling on the name of the Lord
