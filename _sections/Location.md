@@ -1,8 +1,10 @@
 ---
 title: Location
 icon: fa-user
-order: 3
+order: 4
 ---
+<a href="#" class="image featured"><img src="assets/images/bruton.gif" alt="" /></a>
+
 ### Bruton Heights Training Center
 #### 301 1st Street, Bldg 301
 #### Williamsburg, VA 23850
