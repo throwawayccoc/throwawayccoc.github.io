@@ -1,6 +1,5 @@
 ---
 title: What Does the Bible Say About Repentance?
-author: Chris
 layout: post
 ---
      
