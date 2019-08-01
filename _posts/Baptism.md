@@ -1,6 +1,5 @@
 ---
 title: What Does the Bible Says About Baptism?
-author: 
 layout: post
 ---
 
