@@ -1,24 +1,40 @@
 ---
-title: Fourth Post
-author: Chris
+title: What Does the Bible Say Aout Sin?
+author: 
 layout: post
 ---
-Lorem ipsum dolor sit amet, harum malorum nominavi mea et. Atqui maluisset duo cu, summo dignissim voluptatum sit ut. Ad quo quidam delicatissimi. Cum nihil noster patrioque id. Per at maiorum definitiones. Cu vix sint aliquip. No duo alia sale persecuti.
 
-Pri id consul meliore luptatum, vix iudico impetus salutatus eu, duo at causae admodum complectitur. Qui eu salutandi dignissim, ea dictas audire commodo eos, vim cu autem dicam. Novum placerat moderatius sea ex, debet labitur reprehendunt mei ad. Tempor theophrastus et est, id tollit ponderum usu, at vis consul detraxit. Sit ut adhuc aeque.
-
-Ut eum labore antiopam. Cum eu modus rationibus. Illud deleniti cum cu. At vix illum vitae tation, solet oporteat complectitur at vel. Vim te simul eleifend, et per insolens conceptam, ad sint posidonium est. Ad vocent propriae principes duo.
-
-Audire periculis id vis, cum eu sonet option patrioque, his dicam sanctus imperdiet ad. Ad sonet dolorum est. Eu dolore adipisci volutpat mei, eu nec nisl molestiae. Usu ad veri omnesque pertinacia, duis scripserit ad nam. Quo id eligendi legendos.
-
-Eos cu partiendo vituperatoribus. Mel id duis delenit atomorum, mei tamquam nostrum ne, id eum hinc decore mediocrem. Mei feugiat habemus tincidunt ut, atqui detraxit ex usu. Vix ad commodo eripuit alienum, an has idque delicatissimi. Dolores reformidans mel ne, duis numquam disputando quo te.
-
-Eum eu tritani accusata qualisque, pro ei purto vocent. Vim in insolens hendrerit similique. Nobis munere antiopam ei vix. Cum no labore partiendo conceptam. Sea id vide viderer mandamus, magna posidonium nam at. Ad populo persius duo, vel audire detracto scribentur ut.
-
-Vim te fastidii sententiae. Vix ad facilis gloriatur, mei an diceret iracundia vituperatoribus. Iudico consetetur dissentiunt pri ut. Consul dictas pri ne. Nec an alia volumus scaevola, eos movet deleniti argumentum te. Latine abhorreant his ad, ut modus tempor euismod pri.
-
-Amet illum at sea, est autem fabulas eu, quod nonumes lobortis no sed. Has ei fugit adipisci reprimique. Enim tamquam ornatus pri ei. Alii harum invidunt nec ex, pri vidit latine ne. Has vocent nominati rationibus ad, ex partiendo prodesset moderatius has, vim quod paulo ad. Ex nec etiam electram, pri illud appetere eu.
-
-An nobis instructior eos, eam libris aperiam corrumpit ex. Case omnesque eu per. Et vix iisque tritani. Autem posidonium eu vis, sit et mutat brute. Usu ne postulant intellegat omittantur, mazim saperet adolescens mel at.
-
-Nam at velit percipit detraxit, quas modus mea ut. Ius an natum doctus vivendum. Quo at debet vidisse viderer, mollis eripuit ex nec. Sed ut choro saepe, sale augue sea et. His nemore dolorum mnesarchum at, ius an adipisci aliquando, laoreet placerat ea ius.
+<h4 style="text-align: center;">Rom 3:23 </h4>
+23) For all have sinned, and come short of the glory of God;  
+<br/>
+<h4 style="text-align: center;">Isaiah 59: 1-2</h4>
+ 1) Behold, the Lord's hand is not shortened, that it cannot 
+     save; neither his ear heavy, that it cannot hear    
+ 2) But your iniquities have separated between you and your 
+     God, and your sins have hid his face from you, that he 
+     will not hear.  
+<br/>
+<h4 style="text-align: center;">Ezekial 18:20</h4>
+ 20) The soul that sinneth, it shall die. The son shall not 
+     bear the iniquity of the father, neither shall the 
+     father bear the iniquity of the son: the righteousness 
+     of the righteous shall be upon him, and the wickedness 
+     of the wicked shall be upon him.  
+<br/>
+<h4 style="text-align: center;">Acts 2:36-39</h4>
+36) Therefore let all the house of Israel know assuredly, 
+     that God hath made that same Jesus, whom ye have crucified, 
+     both Lord and Christ.  
+37) Now when they heard this, they were pricked in their heart, 
+     and said unto Peter and to the rest of the apostles, Men 
+     and brethren, what shall we do?  
+38) Then Peter said unto them, Repent, and be baptized every 
+     one of you in the name of Jesus Christ for the remission 
+     of sins, and ye shall receive the gift of the Holy Ghost.  
+39) For the promise is unto you, and to your children, and 
+     to all that are afar off, even as many as the Lord our God 
+     shall call.  
+<br/>
+<h4 style="text-align: center;">Acts 22:16</h4>
+16) And now why tarriest thou? arise, and be baptized, and 
+     wash away thy sins, calling on the name of the Lord
